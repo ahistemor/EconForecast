@@ -1,0 +1,27 @@
+# Data Understanding
+
+## Sub-Phases
+
+### Collect Initial Data
+- Gather historical macroeconomic data from reliable sources.
+- Ensure data coverage for all required indicators.
+
+### Describe Data
+- Summarize the structure, types, and completeness of the data.
+- Identify missing values and inconsistencies.
+
+### Explore Data
+- Analyze trends, seasonality, and correlations in the data.
+- Visualize key patterns and anomalies.
+
+### Verify Data Quality
+- Assess the accuracy, consistency, and timeliness of the data.
+- Document any limitations or issues with the datasets.
+
+## Objectives
+- Collect initial macroeconomic data (e.g., GDP, inflation, unemployment rates).
+- Explore and analyze the data to identify trends and patterns.
+
+## Deliverables
+- Data quality report for macroeconomic datasets.
+- Initial insights into macroeconomic trends.

@@ -1,0 +1,27 @@
+# Modeling
+
+## Sub-Phases
+
+### Select Modeling Techniques
+- Evaluate forecasting methods (e.g., ARIMA, VAR, machine learning).
+- Choose techniques based on data characteristics and goals.
+
+### Generate Test Design
+- Define how models will be validated (e.g., train-test split, cross-validation).
+- Specify performance metrics for evaluation.
+
+### Build Models
+- Train models using the prepared macroeconomic dataset.
+- Optimize hyperparameters for better performance.
+
+### Assess Models
+- Evaluate models using validation data.
+- Compare performance metrics to select the best model(s).
+
+## Objectives
+- Select appropriate forecasting models (e.g., ARIMA, VAR, machine learning models).
+- Train and validate models using macroeconomic data.
+
+## Deliverables
+- Performance metrics for forecasting models.
+- Selected model(s) for deployment.

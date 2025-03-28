@@ -1,0 +1,31 @@
+# Data Preparation
+
+## Sub-Phases
+
+### Select Data
+- Choose relevant macroeconomic indicators for forecasting.
+- Exclude irrelevant or redundant data.
+
+### Clean Data
+- Handle missing values, outliers, and inconsistencies.
+- Standardize formats and units across datasets.
+
+### Construct Data
+- Create derived variables or features (e.g., growth rates, moving averages).
+- Aggregate data to the required time intervals.
+
+### Integrate Data
+- Combine data from multiple sources into a unified dataset.
+- Ensure consistency and alignment across datasets.
+
+### Format Data
+- Organize data into a structure suitable for modeling.
+- Save the prepared dataset for reproducibility.
+
+## Objectives
+- Clean and preprocess macroeconomic data.
+- Transform data into a format suitable for forecasting models.
+
+## Deliverables
+- Prepared macroeconomic dataset.
+- Data transformation scripts for reproducibility.

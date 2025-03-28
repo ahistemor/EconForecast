@@ -1,0 +1,3 @@
+# Introduction
+
+Welcome to the Macroeconomic Forecasting App Development Book. This book provides a structured approach to building an app for forecasting macroeconomic indicators, following the phases of the CRISP-DM methodology.

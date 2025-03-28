@@ -1,0 +1,262 @@
+[
+  {
+    "objectID": "introduction.html",
+    "href": "introduction.html",
+    "title": "2  Introduction",
+    "section": "",
+    "text": "Welcome to the Macroeconomic Forecasting App Development Book. This book provides a structured approach to building an app for forecasting macroeconomic indicators, following the phases of the CRISP-DM methodology.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "business_understanding.html",
+    "href": "business_understanding.html",
+    "title": "3  Business Understanding",
+    "section": "",
+    "text": "3.1 Sub-Phases",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Business Understanding</span>"
+    ]
+  },
+  {
+    "objectID": "business_understanding.html#sub-phases",
+    "href": "business_understanding.html#sub-phases",
+    "title": "3  Business Understanding",
+    "section": "",
+    "text": "3.1.1 Determine Business Objectives\n\nDefine the purpose of the macroeconomic forecasting app.\nIdentify the key macroeconomic indicators to forecast.\n\n\n\n3.1.2 Assess the Situation\n\nAnalyze the current forecasting methods and tools.\nIdentify gaps and opportunities for improvement.\n\n\n\n3.1.3 Determine Data Mining Goals\n\nSpecify the desired accuracy and usability of the forecasts.\nDefine how the app will support decision-making.\n\n\n\n3.1.4 Produce Project Plan\n\nOutline the timeline, resources, and milestones for app development.\nIdentify potential risks and mitigation strategies.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Business Understanding</span>"
+    ]
+  },
+  {
+    "objectID": "business_understanding.html#objectives",
+    "href": "business_understanding.html#objectives",
+    "title": "3  Business Understanding",
+    "section": "3.2 Objectives",
+    "text": "3.2 Objectives\n\nDefine the objectives of the macroeconomic forecasting app.\nIdentify key stakeholders and their requirements.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Business Understanding</span>"
+    ]
+  },
+  {
+    "objectID": "business_understanding.html#deliverables",
+    "href": "business_understanding.html#deliverables",
+    "title": "3  Business Understanding",
+    "section": "3.3 Deliverables",
+    "text": "3.3 Deliverables\n\nBusiness success criteria for the app.\nProject plan outlining the development process.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Business Understanding</span>"
+    ]
+  },
+  {
+    "objectID": "data_understanding.html",
+    "href": "data_understanding.html",
+    "title": "4  Data Understanding",
+    "section": "",
+    "text": "4.1 Sub-Phases",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Data Understanding</span>"
+    ]
+  },
+  {
+    "objectID": "data_understanding.html#sub-phases",
+    "href": "data_understanding.html#sub-phases",
+    "title": "4  Data Understanding",
+    "section": "",
+    "text": "4.1.1 Collect Initial Data\n\nGather historical macroeconomic data from reliable sources.\nEnsure data coverage for all required indicators.\n\n\n\n4.1.2 Describe Data\n\nSummarize the structure, types, and completeness of the data.\nIdentify missing values and inconsistencies.\n\n\n\n4.1.3 Explore Data\n\nAnalyze trends, seasonality, and correlations in the data.\nVisualize key patterns and anomalies.\n\n\n\n4.1.4 Verify Data Quality\n\nAssess the accuracy, consistency, and timeliness of the data.\nDocument any limitations or issues with the datasets.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Data Understanding</span>"
+    ]
+  },
+  {
+    "objectID": "data_understanding.html#objectives",
+    "href": "data_understanding.html#objectives",
+    "title": "4  Data Understanding",
+    "section": "4.2 Objectives",
+    "text": "4.2 Objectives\n\nCollect initial macroeconomic data (e.g., GDP, inflation, unemployment rates).\nExplore and analyze the data to identify trends and patterns.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Data Understanding</span>"
+    ]
+  },
+  {
+    "objectID": "data_understanding.html#deliverables",
+    "href": "data_understanding.html#deliverables",
+    "title": "4  Data Understanding",
+    "section": "4.3 Deliverables",
+    "text": "4.3 Deliverables\n\nData quality report for macroeconomic datasets.\nInitial insights into macroeconomic trends.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Data Understanding</span>"
+    ]
+  },
+  {
+    "objectID": "data_preparation.html",
+    "href": "data_preparation.html",
+    "title": "5  Data Preparation",
+    "section": "",
+    "text": "5.1 Sub-Phases",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Data Preparation</span>"
+    ]
+  },
+  {
+    "objectID": "data_preparation.html#sub-phases",
+    "href": "data_preparation.html#sub-phases",
+    "title": "5  Data Preparation",
+    "section": "",
+    "text": "5.1.1 Select Data\n\nChoose relevant macroeconomic indicators for forecasting.\nExclude irrelevant or redundant data.\n\n\n\n5.1.2 Clean Data\n\nHandle missing values, outliers, and inconsistencies.\nStandardize formats and units across datasets.\n\n\n\n5.1.3 Construct Data\n\nCreate derived variables or features (e.g., growth rates, moving averages).\nAggregate data to the required time intervals.\n\n\n\n5.1.4 Integrate Data\n\nCombine data from multiple sources into a unified dataset.\nEnsure consistency and alignment across datasets.\n\n\n\n5.1.5 Format Data\n\nOrganize data into a structure suitable for modeling.\nSave the prepared dataset for reproducibility.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Data Preparation</span>"
+    ]
+  },
+  {
+    "objectID": "data_preparation.html#objectives",
+    "href": "data_preparation.html#objectives",
+    "title": "5  Data Preparation",
+    "section": "5.2 Objectives",
+    "text": "5.2 Objectives\n\nClean and preprocess macroeconomic data.\nTransform data into a format suitable for forecasting models.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Data Preparation</span>"
+    ]
+  },
+  {
+    "objectID": "data_preparation.html#deliverables",
+    "href": "data_preparation.html#deliverables",
+    "title": "5  Data Preparation",
+    "section": "5.3 Deliverables",
+    "text": "5.3 Deliverables\n\nPrepared macroeconomic dataset.\nData transformation scripts for reproducibility.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Data Preparation</span>"
+    ]
+  },
+  {
+    "objectID": "modeling.html",
+    "href": "modeling.html",
+    "title": "6  Modeling",
+    "section": "",
+    "text": "6.1 Sub-Phases",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Modeling</span>"
+    ]
+  },
+  {
+    "objectID": "modeling.html#sub-phases",
+    "href": "modeling.html#sub-phases",
+    "title": "6  Modeling",
+    "section": "",
+    "text": "6.1.1 Select Modeling Techniques\n\nEvaluate forecasting methods (e.g., ARIMA, VAR, machine learning).\nChoose techniques based on data characteristics and goals.\n\n\n\n6.1.2 Generate Test Design\n\nDefine how models will be validated (e.g., train-test split, cross-validation).\nSpecify performance metrics for evaluation.\n\n\n\n6.1.3 Build Models\n\nTrain models using the prepared macroeconomic dataset.\nOptimize hyperparameters for better performance.\n\n\n\n6.1.4 Assess Models\n\nEvaluate models using validation data.\nCompare performance metrics to select the best model(s).",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Modeling</span>"
+    ]
+  },
+  {
+    "objectID": "modeling.html#objectives",
+    "href": "modeling.html#objectives",
+    "title": "6  Modeling",
+    "section": "6.2 Objectives",
+    "text": "6.2 Objectives\n\nSelect appropriate forecasting models (e.g., ARIMA, VAR, machine learning models).\nTrain and validate models using macroeconomic data.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Modeling</span>"
+    ]
+  },
+  {
+    "objectID": "modeling.html#deliverables",
+    "href": "modeling.html#deliverables",
+    "title": "6  Modeling",
+    "section": "6.3 Deliverables",
+    "text": "6.3 Deliverables\n\nPerformance metrics for forecasting models.\nSelected model(s) for deployment.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Modeling</span>"
+    ]
+  },
+  {
+    "objectID": "evaluation.html",
+    "href": "evaluation.html",
+    "title": "7  Evaluation",
+    "section": "",
+    "text": "7.1 Sub-Phases",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Evaluation</span>"
+    ]
+  },
+  {
+    "objectID": "evaluation.html#sub-phases",
+    "href": "evaluation.html#sub-phases",
+    "title": "7  Evaluation",
+    "section": "",
+    "text": "7.1.1 Evaluate Results\n\nAssess the accuracy and reliability of forecasts.\nCompare results against business objectives.\n\n\n\n7.1.2 Review Process\n\nAnalyze the effectiveness of the data preparation and modeling phases.\nIdentify areas for improvement in the workflow.\n\n\n\n7.1.3 Determine Next Steps\n\nDecide whether to proceed with deployment or refine the models.\nDocument lessons learned and recommendations.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Evaluation</span>"
+    ]
+  },
+  {
+    "objectID": "evaluation.html#objectives",
+    "href": "evaluation.html#objectives",
+    "title": "7  Evaluation",
+    "section": "7.2 Objectives",
+    "text": "7.2 Objectives\n\nEvaluate the accuracy and reliability of forecasting models.\nReview the app’s ability to meet business objectives.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Evaluation</span>"
+    ]
+  },
+  {
+    "objectID": "evaluation.html#deliverables",
+    "href": "evaluation.html#deliverables",
+    "title": "7  Evaluation",
+    "section": "7.3 Deliverables",
+    "text": "7.3 Deliverables\n\nEvaluation report for forecasting models.\nDecision on model deployment and app readiness.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Evaluation</span>"
+    ]
+  },
+  {
+    "objectID": "deployment.html",
+    "href": "deployment.html",
+    "title": "8  Deployment",
+    "section": "",
+    "text": "8.1 Sub-Phases",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Deployment</span>"
+    ]
+  },
+  {
+    "objectID": "deployment.html#sub-phases",
+    "href": "deployment.html#sub-phases",
+    "title": "8  Deployment",
+    "section": "",
+    "text": "8.1.1 Plan Deployment\n\nDefine the deployment strategy (e.g., cloud-based, on-premises).\nPrepare infrastructure and resources for deployment.\n\n\n\n8.1.2 Deploy Solution\n\nImplement the macroeconomic forecasting app in the production environment.\nEnsure all components are functioning as expected.\n\n\n\n8.1.3 Monitor and Maintain\n\nSet up monitoring for app performance and forecast accuracy.\nDevelop a maintenance plan to address issues and updates.\n\n\n\n8.1.4 Review Deployment\n\nGather feedback from stakeholders and users.\nEvaluate the app’s impact on decision-making and business goals.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Deployment</span>"
+    ]
+  },
+  {
+    "objectID": "deployment.html#objectives",
+    "href": "deployment.html#objectives",
+    "title": "8  Deployment",
+    "section": "8.2 Objectives",
+    "text": "8.2 Objectives\n\nDeploy the macroeconomic forecasting app to production.\nSet up monitoring and maintenance processes.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Deployment</span>"
+    ]
+  },
+  {
+    "objectID": "deployment.html#deliverables",
+    "href": "deployment.html#deliverables",
+    "title": "8  Deployment",
+    "section": "8.3 Deliverables",
+    "text": "8.3 Deliverables\n\nDeployment plan for the app.\nDocumentation for monitoring and maintaining the app.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Deployment</span>"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Macroeconomic Forecasting App Development",
+    "section": "",
+    "text": "1 Index\n\nIntroduction\nData Understanding\nData Preparation\nModeling\nEvaluation\nDeployment",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Index</span>"
+    ]
+  }
+]

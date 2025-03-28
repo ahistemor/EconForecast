@@ -1,0 +1,15 @@
+project:
+  type: book
+
+book:
+  title: "Macroeconomic Forecasting App Development"
+  author: "Your Name"
+  chapters:
+    - index.qmd
+    - introduction.qmd
+    - business_understanding.qmd
+    - data_understanding.qmd
+    - data_preparation.qmd
+    - modeling.qmd
+    - evaluation.qmd
+    - deployment.qmd
