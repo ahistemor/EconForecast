@@ -2,26 +2,33 @@
 
 ## Sub-Phases
 
-### Determine Business Objectives
-- Define the purpose of the macroeconomic forecasting app.
-- Identify the key macroeconomic indicators to forecast.
+### Business Objectives
+
+- **Project Goal:** Develop a robust macroeconomic forecasting tool that provides accurate predictions of key economic indicators.
+
+- **Specific Objectives:**
+    - Create a predictive model for GDP growth, inflation, unemployment rates and/or important indicators of different countries.
+    - Build an interactive web application for users to explore forecasts.
+    - Demonstrate advanced time-series forecasting techniques.
+    - Use AI to forecast key economic indicators.
 
 ### Assess the Situation
-- Analyze the current forecasting methods and tools.
-- Identify gaps and opportunities for improvement.
+
+- **Current Context:** 
+    - Economic indicators are critical for policy-making, investment decisions, and strategic planning.
+    - Lack of a centralize hub that mixes different data sources from mayor organizations (i.e World Bank, IMF, OECD, etc.)
+    - Many economic organizations (World Bank, IMF, OECD) provide their own forecasts in dedicated publications, making it difficult to compare and contrast predictions.
+
+- **Project Resources:**
+    - Data sources: FRED, OECD, World Bank, IMF databases
+    - Potential tools: Python (pandas, scikit-learn, TensorFlow) and Shiny.
+    - Machine learning models: ARIMA, VAR, LSTM.
 
 ### Determine Data Mining Goals
 - Specify the desired accuracy and usability of the forecasts.
-- Define how the app will support decision-making.
+- An interactive platform that consolidates these forecasts with my own would provide valuable insights into consensus and divergence among major institutions.
+- Reduce the effort it takes to search estimates of the main international economic organizations.
 
 ### Produce Project Plan
 - Outline the timeline, resources, and milestones for app development.
-- Identify potential risks and mitigation strategies.
 
-## Objectives
-- Define the objectives of the macroeconomic forecasting app.
-- Identify key stakeholders and their requirements.
-
-## Deliverables
-- Business success criteria for the app.
-- Project plan outlining the development process.
